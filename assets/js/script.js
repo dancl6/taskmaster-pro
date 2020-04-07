@@ -73,6 +73,7 @@ var index = $(this)
   .closest(".list-group-item")
   .index();
 
+  debugger
   tasks[status][index].text = text;
   saveTasks();
 
