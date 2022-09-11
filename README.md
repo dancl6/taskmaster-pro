@@ -25,8 +25,8 @@ Pull from Github repo and open index.html file in google chrome browser.
 
 ## Deployment
 
-
-[Deployed App](https://dancl6.github.io/taskmaster-pro/)
+https://dancl6.github.io/taskmaster-pro/
+[Deployed App](https://google.com/)
 
 ## Usage 
 
