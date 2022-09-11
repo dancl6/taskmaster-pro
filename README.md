@@ -25,7 +25,7 @@ Pull from Github repo and open index.html file in google chrome browser.
 
 ## Deployment
 
-[Deployed App](https://google.com/](https://dancl6.github.io/taskmaster-pro/)
+[Deployed App](https://dancl6.github.io/taskmaster-pro/)
 ## Usage 
 
 Create and modify tasks.
